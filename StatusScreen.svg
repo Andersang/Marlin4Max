@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="42mm"
+   height="30mm"
+   viewBox="0 0 42 30.000001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="StatusScreen.svg"
+   inkscape:export-filename="StatusScreen.jpg"
+   inkscape:export-xdpi="48.652958"
+   inkscape:export-ydpi="48.652958"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.1776837"
+     inkscape:cx="94.430318"
+     inkscape:cy="47.394685"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="37.291753"
+       height="37.291753"
+       patternTransform="translate(0.01044602,-10.46174)"
+       id="pattern1383">
+      <rect
+         style="fill:#030303;stroke-width:0.668134"
+         id="rect1033-8-8-4"
+         width="49.677063"
+         height="3.0614407"
+         x="-24.838531"
+         y="24.838531"
+         transform="rotate(-45)" />
+    </pattern>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-33.055088,-158.55623)">
+    <text
+       xml:space="preserve"
+       style="font-size:13.3116px;font-family:inter;-inkscape-font-specification:inter;letter-spacing:0.918833px;fill:#030303;stroke-width:4.19264"
+       x="33.464119"
+       y="175.09105"
+       id="text1199"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:inter;-inkscape-font-specification:'inter Bold';stroke-width:4.19264"
+         x="33.464119"
+         y="175.09105"
+         id="tspan1201">4MAX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.73284px;font-family:inter;-inkscape-font-specification:'inter Bold';letter-spacing:0.233132px;fill:#030303;stroke-width:1.80562"
+       x="34.187405"
+       y="180.45927"
+       id="text1257"><tspan
+         sodipodi:role="line"
+         id="tspan1255"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:inter;-inkscape-font-specification:'inter Bold';stroke-width:1.80562"
+         x="34.187405"
+         y="180.45927"
+         dx="0 0 0 0 0 0 0 0.44332784 0 0 0.25333017">MARLIN2.1.2</tspan></text>
+  </g>
+</svg>
